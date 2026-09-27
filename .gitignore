@@ -1,8 +1,8 @@
 # Entorno virtual
 .venv/
 
-# Datos grandes / sensibles del proyecto
-/data/
+# No subir el archivo de datos grande
+/data/secop_bienes.parquet
 
 # Archivos de Python
 __pycache__/

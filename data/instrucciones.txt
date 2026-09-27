@@ -1,0 +1,4 @@
+Recordar que el archivo se debe descargar de:
+https://drive.google.com/file/d/1R0pSXh2bgCoPKcXlAlafdavVwvzZX6AQ/view
+
+Una vez descargado lo deben ubicar en esta carpeta para que el codigo de python lo reconozca.
