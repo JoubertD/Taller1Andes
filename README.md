@@ -35,6 +35,7 @@ Diseñar una estrategia analítica y un conjunto de criterios de focalización t
 └── README.md                    # Documentación general del proyecto
 ```
 ##  Conclusiones
+Para mayor informacion ver el archivo InformeEjecutivo_Taller1.pdf
 - Para prevenir casos graves de adiciones de plazo se debe tener bajo vigilancia los contratos de licitación pública de larga duración y alto valor presupuestado inicial, teniendo en cuenta especialmente los de suministros que se tienden a demorar mucho más en sus incidencias.
 - Para evitar incidentes de cierres sin liquidar, se deben vigilar los procesos de régimen especial y contratación directa, vigilando especialmente el sector de ciencia y tecnología (aunque la mayoría de sectores igual tiene altos índices de cierres sin liquidar)
 - El hecho de que más de la mitad (55.31%) de los contratos finalizados carezca de acta de liquidación representa una vulnerabilidad administrativa y jurídica crítica para el Estado. Control Interno debe transitar de una supervisión pasiva a la implementación de alertas tempranas automáticas previas al vencimiento de los términos de liquidación bilateral. 
